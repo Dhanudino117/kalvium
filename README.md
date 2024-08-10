@@ -1,3 +1,3 @@
 # Dhanudino
 
-i am using github for the first time.
+I am using github for the first time!
